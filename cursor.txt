@@ -20,3 +20,4 @@ cursor --install-extension bradlc.vscode-tailwindcss
 cursor --install-extension imgildev.vscode-tailwindcss-snippets
 cursor --install-extension wayou.vscode-todo-highlight
 cursor --install-extension bmewburn.vscode-intelephense-client
+cursor --install-extension google.geminicodeassist
