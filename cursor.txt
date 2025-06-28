@@ -22,4 +22,4 @@ cursor --install-extension wayou.vscode-todo-highlight
 cursor --install-extension bmewburn.vscode-intelephense-client
 cursor --install-extension google.geminicodeassist
 cursor --install-extension qwtel.sqlite-viewer
-
+cursor --install-extension yy0931.vscode-sqlite3-editor
