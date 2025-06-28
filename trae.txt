@@ -20,3 +20,4 @@ trae --install-extension bradlc.vscode-tailwindcss
 trae --install-extension imgildev.vscode-tailwindcss-snippets
 trae --install-extension wayou.vscode-todo-highlight
 trae --install-extension bmewburn.vscode-intelephense-client
+trae --install-extension google.geminicodeassist
