@@ -21,3 +21,5 @@ windsurf --install-extension imgildev.vscode-tailwindcss-snippets
 windsurf --install-extension wayou.vscode-todo-highlight
 windsurf --install-extension bmewburn.vscode-intelephense-client
 windsurf --install-extension google.geminicodeassist
+windsurf --install-extension qwtel.sqlite-viewer
+
