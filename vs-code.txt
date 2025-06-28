@@ -21,3 +21,5 @@ code --install-extension imgildev.vscode-tailwindcss-snippets
 code --install-extension wayou.vscode-todo-highlight
 code --install-extension bmewburn.vscode-intelephense-client
 code --install-extension google.geminicodeassist
+code --install-extension qwtel.sqlite-viewer
+
