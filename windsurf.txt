@@ -22,3 +22,30 @@ windsurf --install-extension wayou.vscode-todo-highlight
 windsurf --install-extension bmewburn.vscode-intelephense-client
 windsurf --install-extension qwtel.sqlite-viewer
 windsurf --install-extension yy0931.vscode-sqlite3-editor
+
+=== 
+
+surf --install-extension arifbudimanar.arifcode-theme
+surf --install-extension phil294.git-log--graph
+surf --install-extension laravel.vscode-laravel
+surf --install-extension shufo.vscode-blade-formatter
+surf --install-extension onecentlin.laravel-blade
+surf --install-extension amiralizadeh9480.laravel-extra-intellisense
+surf --install-extension mrchetan.goto-laravel-components
+surf --install-extension mrchetan.laravel-goto-config
+surf --install-extension codingyu.laravel-goto-view
+surf --install-extension porifa.laravel-intelephense
+surf --install-extension open-southeners.laravel-pint
+surf --install-extension mohamedbenhida.laravel-intellisense
+surf --install-extension onecentlin.laravel5-snippets
+surf --install-extension naoray.laravel-goto-components
+surf --install-extension stef-k.laravel-goto-controller
+surf --install-extension doonfrs.livewire-support
+surf --install-extension xyz.local-history
+surf --install-extension pkief.material-icon-theme
+surf --install-extension bradlc.vscode-tailwindcss
+surf --install-extension imgildev.vscode-tailwindcss-snippets
+surf --install-extension wayou.vscode-todo-highlight
+surf --install-extension bmewburn.vscode-intelephense-client
+surf --install-extension qwtel.sqlite-viewer
+surf --install-extension yy0931.vscode-sqlite3-editor
