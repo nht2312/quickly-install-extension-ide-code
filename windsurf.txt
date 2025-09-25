@@ -25,6 +25,7 @@ windsurf --install-extension catppuccin.catppuccin-vsc
 windsurf --install-extension catppuccin.catppuccin-vsc-icons
 windsurf --install-extension naumovs.color-highlight
 windsurf --install-extension coenraads.bracket-pair-colorizer-2
+windsurf --install-extension kamikillerto.vscode-colorize
 
 === 
 
@@ -55,4 +56,5 @@ windsurf --install-extension coenraads.bracket-pair-colorizer-2
 /Applications/Windsurf.app/Contents/Resources/app/bin/windsurf --install-extension catppuccin.catppuccin-vsc-icons
 /Applications/Windsurf.app/Contents/Resources/app/bin/windsurf --install-extension naumovs.color-highlight
 /Applications/Windsurf.app/Contents/Resources/app/bin/windsurf --install-extension coenraads.bracket-pair-colorizer-2
+/Applications/Windsurf.app/Contents/Resources/app/bin/windsurf --install-extension kamikillerto.vscode-colorize
 
