@@ -28,6 +28,8 @@ windsurf --install-extension coenraads.bracket-pair-colorizer-2
 windsurf --install-extension kamikillerto.vscode-colorize
 windsurf --install-extension formulahendry.auto-close-tag
 windsurf --install-extension formulahendry.auto-rename-tag
+windsurf --install-extension postman.postman-for-vscode
+windsurf --install-extension rangav.vscode-thunder-client
 
 === 
 
@@ -61,4 +63,6 @@ windsurf --install-extension formulahendry.auto-rename-tag
 /Applications/Windsurf.app/Contents/Resources/app/bin/windsurf --install-extension kamikillerto.vscode-colorize
 /Applications/Windsurf.app/Contents/Resources/app/bin/windsurf --install-extension formulahendry.auto-close-tag
 /Applications/Windsurf.app/Contents/Resources/app/bin/windsurf --install-extension formulahendry.auto-rename-tag
+/Applications/Windsurf.app/Contents/Resources/app/bin/windsurf --install-extension postman.postman-for-vscode
+/Applications/Windsurf.app/Contents/Resources/app/bin/windsurf --install-extension rangav.vscode-thunder-client
 
