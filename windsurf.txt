@@ -30,6 +30,9 @@ surf --install-extension formulahendry.auto-close-tag
 surf --install-extension formulahendry.auto-rename-tag
 surf --install-extension postman.postman-for-vscode
 surf --install-extension rangav.vscode-thunder-client
+surf --install-extension christian-kohler.npm-intellisense
+surf --install-extension dbaeumer.vscode-eslint
+surf --install-extension ms-azuretools.vscode-docker
 
 === 
 
@@ -65,4 +68,7 @@ surf --install-extension rangav.vscode-thunder-client
 /Applications/Windsurf.app/Contents/Resources/app/bin/windsurf --install-extension formulahendry.auto-rename-tag
 /Applications/Windsurf.app/Contents/Resources/app/bin/windsurf --install-extension postman.postman-for-vscode
 /Applications/Windsurf.app/Contents/Resources/app/bin/windsurf --install-extension rangav.vscode-thunder-client
+/Applications/Windsurf.app/Contents/Resources/app/bin/windsurf --install-extension christian-kohler.npm-intellisense
+/Applications/Windsurf.app/Contents/Resources/app/bin/windsurf --install-extension dbaeumer.vscode-eslint
+/Applications/Windsurf.app/Contents/Resources/app/bin/windsurf --install-extension ms-azuretools.vscode-docker
 
