@@ -33,6 +33,9 @@ surf --install-extension rangav.vscode-thunder-client
 surf --install-extension christian-kohler.npm-intellisense
 surf --install-extension dbaeumer.vscode-eslint
 surf --install-extension ms-azuretools.vscode-docker
+surf --install-extension imgildev.vscode-nestjs-generator
+surf --install-extension imgildev.vscode-nestjs-snippets-extension
+surf --install-extension leodevbro.blockman
 
 === 
 
@@ -71,4 +74,7 @@ surf --install-extension ms-azuretools.vscode-docker
 /Applications/Windsurf.app/Contents/Resources/app/bin/windsurf --install-extension christian-kohler.npm-intellisense
 /Applications/Windsurf.app/Contents/Resources/app/bin/windsurf --install-extension dbaeumer.vscode-eslint
 /Applications/Windsurf.app/Contents/Resources/app/bin/windsurf --install-extension ms-azuretools.vscode-docker
+/Applications/Windsurf.app/Contents/Resources/app/bin/windsurf --install-extension imgildev.vscode-nestjs-generator
+/Applications/Windsurf.app/Contents/Resources/app/bin/windsurf --install-extension imgildev.vscode-nestjs-snippets-extension
+/Applications/Windsurf.app/Contents/Resources/app/bin/windsurf --install-extension leodevbro.blockman
 
